@@ -1,6 +1,6 @@
 ---
 title: Himanshu Web
 member:
-    - Name: Himanshu
+    - Name: Himanshu Testing Web
       Registration: Web Testing
 ---
