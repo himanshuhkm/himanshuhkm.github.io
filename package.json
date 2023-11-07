@@ -14,6 +14,7 @@
     "@zeit/next-css": "^1.0.1",
     "create-react-app": "^5.0.1",
     "frontmatter-markdown-loader": "^3.7.0",
+    "lodash": "^4.17.21",
     "next": "^14.0.1",
     "react": "^18.2.0"
   }
